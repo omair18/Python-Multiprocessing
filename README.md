@@ -1,4 +1,4 @@
-# Python-Multiprocessing
+# Python-Multiprocessing Example
 A simple example of python multiprocessing. 
 
 Each process runs on separate core. 
